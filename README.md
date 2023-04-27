@@ -1,4 +1,4 @@
-# Descripcion de trabajo
+# Descripcion de trabajo-Taller2
 
 Dentro de este, encontrara codigo de java trabajado en en entorno de Intellij IDEA
 
