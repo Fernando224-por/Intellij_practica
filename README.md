@@ -1,6 +1,4 @@
-# Descripcion de trabajo-Taller2
+# Descricion de Ramas 
 
-Dentro de este, encontrara codigo de java trabajado en en entorno de Intellij IDEA
+Al momento de dar clik en ramas, ustes prodra encontrar la rama master que aloga el taller 2 y la rama Taller3 que aloja el taller3
 
-En Bootstrap encontrara que se uso la propiedad **mb-3**, esta significa "Margin-bottom" para separar y tener mas espacio de maniobra en el formulario.
-y se utilizo estilos en linea donde se integro la propiedad margin
