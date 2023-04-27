@@ -2,5 +2,4 @@
 
 Dentro de este, encontrara codigo de java trabajado en en entorno de Intellij IDEA
 
-En Bootstrap encontrara que se uso la propiedad **mb-3**, esta significa "Margin-bottom" para separar y tener mas espacio de maniobra en el formulario.
-y se utilizo estilos en linea donde se integro la propiedad margin
+en este se segmenta el proyecto a mas profundidad, ya que se separa en carpetas SERVLET,UTIL y MODEL para cumplir con el modelo MVC y poder establecer asi una conexion a base de datos
