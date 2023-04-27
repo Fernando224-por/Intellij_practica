@@ -1,0 +1,10 @@
+*{
+    align-items: center;
+}
+.locationTitle{
+    text-align: center;
+}
+.longContainer{
+    margin-right:30% ;
+    margin-left: 30% ;
+}
